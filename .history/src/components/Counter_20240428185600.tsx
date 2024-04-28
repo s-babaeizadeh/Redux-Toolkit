@@ -17,7 +17,7 @@ const Counter = () => {
   };
 
   const handleIncrementAsync = () => {
-    dispatch(incrementAsync(5));
+    dispatch(incrementAsync(10));
   };
 
   const handleDecrement = () => {
